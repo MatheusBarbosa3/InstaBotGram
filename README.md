@@ -8,7 +8,7 @@
 - install urllib3 v1.24.1
 
 ## Instructions
-- Firstly, download the driver for your respective version of Google Chrome into the root directory of the project. To see your Google Chrome version, click here in [Chrome Version](chrome://version/). To download the respective driver, click here in [Chrome Driver](http://chromedriver.chromium.org/downloads).
+- Firstly, download the driver for your respective version of Google Chrome into the root directory of the project. To see your Google Chrome version, type chrome://version in your browser. To download the respective driver, click here in [Chrome Driver](http://chromedriver.chromium.org/downloads).
 
 - After, go to bot.py file, and add the lines for the functionality desired at the bottom of the file.
 
