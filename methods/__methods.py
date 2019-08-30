@@ -6,6 +6,7 @@ import time
 
 def init_config(config_file_path):
     #Initializes the configuration
+    
     # asserting configuration file has the correct extension
     path = config_file_path.split('.')
     assert(path[len(path)-1] == 'ini')
