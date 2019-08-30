@@ -12,4 +12,4 @@
 
 - After, go to bot.py file, and add the lines for the functionality desired at the bottom of the file.
 
-- Lastly, rename the file config__.ini to config.ini, and add the username and password values in the config.ini file that the Instagram account the bot will use. Username and password combinations can also be passed when creating instances of the InstagramBot class in bot.py.
+- Lastly, add the username and password values in the config.ini file that the Instagram account the bot will use. Username and password combinations can also be passed when creating instances of the InstagramBot class in bot.py.
