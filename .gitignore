@@ -103,9 +103,6 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-# configuration for bot
-config.ini
-
 # editor settings
 .vscode/
 
